@@ -1,0 +1,2 @@
+class Simcard < ApplicationRecord
+end
